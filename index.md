@@ -55,26 +55,31 @@ Technologies: Python, PyQT, SQLite, HTML, CSS
 - Differential Equations
 - Transition to Higher Math (Discrete Math)
 
+
 # Media 
 
 ## Favorite Books
+
 * On The Shortness of Life by Seneca
     * This book taught me how important my time is. 
 * goodbye, things by Sasaki Fumio
     * One of my favorite books because it taught me how important my space is.
-    
+
 * Paradox of Choice by Barry Schwartz
     * One of my favorite books because it showed me that over optimizing is not worth it.
+
 
 ## Favorite Shows
 * Avatar The Last Airbender
 * Violet Evergarden
 * Star Wars: The Clone Wars
 
+
 ## Favorite Games
 * Portal 2
 * Minecraft
 * Danganronpa 3
+
 
 # Self Study
 ## What I'm Reading Now
