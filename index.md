@@ -17,28 +17,28 @@ Hey. I'm Evan.
 * 
 # Portfolio
 ## My Current Resume
-[<img width="720px" src="static/eb-resume-12-19.png/">](static/eb-resume-12-19.png)
+[<img width="720px" src="static/eb-resume-12-19.png">](static/eb-resume-12-19.png)
 
 ## Projects
 ### Voxel Engine
 
 Technologies: C++, OpenGL (GLFW3, GLAD, GLM), CMake, MinGW
 
-[<img width="720px" src="static/opengl-demo.gif/">](static/opengl-demo.gif)
+[<img width="720px" src="static/opengl-demo.gif">](static/opengl-demo.gif)
 
 
 ### Django Site (My Website)
 
 Technologies: Python, Django, Debian (Linode), Apache (Server), PostgreSQL / SQLite, CSS, HTML
 
-[<img width="720px" src="static/website-main-page.png/">](static/website-main-page.png)
+[<img width="720px" src="static/website-main-page.png">](static/website-main-page.png)
 
 
 ### Anki Add-on
 
 Technologies: Python, PyQT, SQLite, HTML, CSS
 
-[<img width="720px" src="static/anki-addon-gui.png/">](static/anki-addon-gui.png)
+[<img width="720px" src="static/anki-addon-gui.png">](static/anki-addon-gui.png)
 # Media 
 ## Favorite Books
 
@@ -50,6 +50,6 @@ Technologies: Python, PyQT, SQLite, HTML, CSS
 
 
 # Contact
-[<img width="64px" src="static/mrevanishere.png/">](https://mrevanishere.com/)
+[<img width="64px" src="static/mrevanishere.png">](https://mrevanishere.com/)
 [<img width="64px" src="static/linkedin-logo.png">](https://www.linkedin.com/in/mrevanishere/)
 [<img width="64px" src="static/github.png">](https://github.com/mrevanishere)
